@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Mahad Ashraf
 
-<!--
-**MahadAsh/MahadAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A passionate developer from Pakistan**
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=MahadAsh&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+* I’m currently exploring deeper into **Machine Learning & Data Engineering pipelines**
+* My expertise spans **Agentic AI, Data Science, Web Development (MERN), and end-to-end Software Building**
+* Software Engineering student at FAST NUCES
+* How to reach me: **mahad8ash@gmail.com**
+
+### Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+</p>
