@@ -2,10 +2,6 @@
 
 **A passionate developer from Pakistan**
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=MahadAsh&style=flat-square&color=blue" alt="Profile views" />
-</div>
-
 <br/>
 
 * I’m currently exploring deeper into **Machine Learning & Data Engineering pipelines**
